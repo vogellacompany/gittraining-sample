@@ -8,7 +8,7 @@
  *******************************************************************************/
 package org.eclipse.example.calc.internal.operations;
 
-import org.eclipse.example.calc.BinaryOperation;
+import org.eclipse.example.calc.BinaryOperation; // comment
 
 /**
  * Binary plus operation
