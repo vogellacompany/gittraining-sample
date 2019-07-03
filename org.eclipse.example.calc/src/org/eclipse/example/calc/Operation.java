@@ -13,4 +13,9 @@ public interface Operation {
 	 * @return name of the operation
 	 */
 	public String getName();
+	
+	// noch eine schöne Änderung
+	// oder doch nicht ?
+	
+	// fkdlsfslfkslfksafs
 }
