@@ -15,5 +15,6 @@ public interface Operation {
 	public String getName();
 	
 	// noch eine schöne Änderung
+	// oder doch nicht ?
 	
 }
