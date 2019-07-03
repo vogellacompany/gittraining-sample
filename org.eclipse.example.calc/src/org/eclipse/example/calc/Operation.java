@@ -16,4 +16,5 @@ public interface Operation {
 	
 	// noch eine schöne Änderung
 	
+	// fkdlsfslfkslfksafs
 }
