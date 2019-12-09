@@ -40,6 +40,7 @@ public class Calculator {
 		new Minus();
 		new Plus();
 		new Square();
+		new Multiply2();
 	}
 
 	private void calculate(String cmdName) {
